@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main-program", "main-program\main-program.csproj", "{AA359A58-DA09-4BC4-900B-09C3F156190A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interactor", "interactor\interactor.csproj", "{6DE98F2B-6BFF-4C01-88F0-27D4461E6C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA359A58-DA09-4BC4-900B-09C3F156190A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA359A58-DA09-4BC4-900B-09C3F156190A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA359A58-DA09-4BC4-900B-09C3F156190A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA359A58-DA09-4BC4-900B-09C3F156190A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE98F2B-6BFF-4C01-88F0-27D4461E6C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE98F2B-6BFF-4C01-88F0-27D4461E6C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE98F2B-6BFF-4C01-88F0-27D4461E6C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE98F2B-6BFF-4C01-88F0-27D4461E6C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6103BC30-DFCB-4E04-AC80-5ACF80F76282}
+	EndGlobalSection
+EndGlobal
